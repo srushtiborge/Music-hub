@@ -1,0 +1,36 @@
+body {
+  background-color: #f2f2f2;
+  font:italic;
+font-size:25px;
+align:center;
+}
+
+container {
+  width: 400px;
+  height:800px;
+  background-color:black;
+  color:white;
+  padding: 20px;
+  border-radius: 8px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style:none;
+  padding: 5px;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
